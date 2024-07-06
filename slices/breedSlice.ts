@@ -1,8 +1,7 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-// const API_KEY =
-//   "live_EmvuiHLY7y0Nqwn3J7xMvrsovdD4uln2PRzHbmfSIPabKL4YbosfsgNVqTtYb7VX";
+
 
 interface beedState {
   breeds: any[];
